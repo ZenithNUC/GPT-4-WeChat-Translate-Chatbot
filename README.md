@@ -25,7 +25,6 @@ git clone https://github.com/yourusername/your-repo.git
 进入项目目录：
 
 ```bash
-Copy code
 cd your-repo
 ```
 安装依赖：
