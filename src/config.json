@@ -1,0 +1,10 @@
+{
+  "OPENAI_API_KEY": "填入你的openai api key",
+  "reverseProxyUrl": "https://ai.devtool.tech/proxy/v1/chat/completions",
+  "groupKey": "zz",
+  "privateKey": "",
+  "resetKey": "reset",
+  "groupReplyMode": false,
+  "privateReplyMode": false,
+  "transLanguage": "法语"
+}
